@@ -1,0 +1,30 @@
+
+ul{
+    color: blueviolet;
+    background-color: azure;
+    margin: 0px 1700px 0px 100px;
+    padding: 10px;
+
+}
+h2{
+    color: blue;
+    font-family: Algerian;
+}
+li{
+    font-family: Tahoma;
+    font-size: 18px;
+}
+
+.body_form{ list-style-image: url("http://www.swadba.by/forum/images/smilies/icon_eek.gif");
+}
+
+#pivo{ list-style-image: url("https://i.playground.ru/p/VyvChw-waz7t-MNwDRl04w.gif");
+}
+
+.preview{
+    list-style-image: url("http://vw-bus-club.ru/forum/images/smilies/biggrin2.gif");
+}
+
+.rooms{
+    list-style-image: url("https://forum.ngs.ru/preview/forum/upload_files/3899dcbab79f92af727c2190bbd8abc5_3ef8ed602d90b05e68c41f0350141502_144852177435_800px.gif");
+}
