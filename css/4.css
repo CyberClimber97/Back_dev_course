@@ -1,0 +1,54 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-shadow: 5px 5px 10px darkblue;
+}
+img{
+    width: 500px;
+
+}
+
+.auto{
+    float: left;
+    margin: 20px;
+    box-shadow: 7px 7px 30px blue;
+}
+.auto2{
+    float: right;
+    margin: 20px;
+    box-shadow: 5px 5px 20px blue;
+}
+
+div{
+    background-color: rgba(154, 149, 94, 0.5);
+    padding: 20px;
+}
+
+p{
+    text-align: justify;
+    color: black;
+    text-shadow: 0.5px 0.5px 1px black;
+}
+
+body{
+    padding: 150px;
+    background-image: url("../img/mountain.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+nav{
+    padding: 20px;
+    text-align: center;
+}
+
+li{
+    display: inline;
+    margin-right: 50px;
+
+}
+.icon{
+    width: 60px;
+    box-shadow: 3px 3px 10px blue;
+}
