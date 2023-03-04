@@ -1,30 +1,92 @@
 
+/*ul{*/
+/*    color: blueviolet;*/
+/*    background-color: azure;*/
+/*    margin: 0px 1700px 0px 100px;*/
+/*    padding: 10px;*/
+/*    list-style-type: none;*/
+/*    display: inline;*/
+/*}*/
+
+/*a{*/
+/*    text-align: center;*/
+/*}*/
+
+/*h2{*/
+/*    color: blue;*/
+/*    font-family: Algerian;*/
+/*}*/
+/*li{*/
+/*    font-family: Tahoma;*/
+/*    font-size: 18px;*/
+/*}*/
+
+/*.body_form{ list-style-image: url("http://www.swadba.by/forum/images/smilies/icon_eek.gif");*/
+/*}*/
+
+/*#pivo{ list-style-image: url("https://i.playground.ru/p/VyvChw-waz7t-MNwDRl04w.gif");*/
+/*}*/
+
+/*.preview{*/
+/*    list-style-image: url("http://vw-bus-club.ru/forum/images/smilies/biggrin2.gif");*/
+/*}*/
+
+/*.rooms{*/
+/*    list-style-image: url("https://forum.ngs.ru/preview/forum/upload_files/3899dcbab79f92af727c2190bbd8abc5_3ef8ed602d90b05e68c41f0350141502_144852177435_800px.gif");*/
+/*}*/
+h1{
+    background-color: aliceblue;
+    text-align: center;
+    color: #f500ff;
+}
+body{
+    margin: 100px;
+    background-image: url("../img/gora-fudzi.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1:hover{
+    text-shadow: 2px 2px 5px #142fdc;
+    text-decoration: underline;
+}
+
+header{
+    text-align: center;
+    background-color: aqua;
+}
+
 ul{
-    color: blueviolet;
-    background-color: azure;
-    margin: 0px 1700px 0px 100px;
-    padding: 10px;
+    list-style-type: none;
+}
 
-}
-h2{
-    color: blue;
-    font-family: Algerian;
-}
 li{
-    font-family: Tahoma;
-    font-size: 18px;
+    display: inline;
+    margin-right: 100px;
+    color: #142fdc;
 }
 
-.body_form{ list-style-image: url("http://www.swadba.by/forum/images/smilies/icon_eek.gif");
+li:hover{
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px #142fdc;
 }
 
-#pivo{ list-style-image: url("https://i.playground.ru/p/VyvChw-waz7t-MNwDRl04w.gif");
+a{
+    text-decoration: none;
 }
 
-.preview{
-    list-style-image: url("http://vw-bus-club.ru/forum/images/smilies/biggrin2.gif");
+section{
+    margin-top: 100px;
 }
 
-.rooms{
-    list-style-image: url("https://forum.ngs.ru/preview/forum/upload_files/3899dcbab79f92af727c2190bbd8abc5_3ef8ed602d90b05e68c41f0350141502_144852177435_800px.gif");
+P{
+
+    font-family: Algerian;
+    color: crimson;
+    font-size: 22px;
+}
+
+#foot{
+    font-family: Algerian;
+    font-size: 24px;
+    text-align: center;
 }
