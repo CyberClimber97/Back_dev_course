@@ -1,0 +1,74 @@
+header{
+    color: bisque;
+    text-align: center;
+
+    background-color: rgba(154, 149, 94, 0.5);
+}
+h1{
+    font-size: 100px;
+    color: aquamarine;
+    text-align: center;
+
+
+}
+li{
+    display: inline;
+    margin-right: 50px;
+    font-size: 40px;
+    color: aquamarine;
+}
+body{
+    padding: 150px;
+    background-image: url("../img/kino.webp");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img{
+    margin: 5px;
+    transition: 2s;
+}
+img:hover{
+    border: 5px solid rebeccapurple;
+}
+.imgicon{
+    width: 200px;
+    height: 200px;
+}
+p{
+    margin: 10px;
+}
+
+
+#second{
+    background-color: rgba(154, 149, 94, 0.5);
+    width: 45%;
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+}
+#first{
+    background-color: rgba(154, 149, 94, 0.5);
+    width: 45%;
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+}
+footer{
+     background-color: rgba(154, 149, 94, 0.5);
+}
+
+#tree{
+    display: inline;
+    margin-right: 50px;
+    text-align: center;
+    background-color: rgba(154, 149, 94, 0.5);
+}
+
+div
+    {
+    display: inline;
+    margin-right: 50px;
+    text-align: center;
+    background-color: rgba(154, 149, 94, 0.5);
+}
