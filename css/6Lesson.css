@@ -1,0 +1,42 @@
+section{
+    font-size: 24px;
+    background-color: #142fdc;
+    display: inline-block;
+    padding: 15px 15px;
+    color: gold;
+    width: 30%;
+    transition: 2s ease 1s;
+    border: aquamarine solid 3px;
+
+}
+
+section:hover{
+    border-radius: 10px;
+    background-color: rebeccapurple;
+    color: black;
+    font-size: 26px;
+    border: black solid 5px;
+}
+
+header{
+    font-size: 24px;
+    background-color: #142fdc;
+    display: inline-block;
+    padding: 15px 15px;
+    color: gold;
+    width: 30%;
+    transition: 2s ease 1s;
+}
+
+footer{
+    font-size: 24px;
+    background-color: #142fdc;
+    display: inline-block;
+    padding: 15px 15px;
+    color: gold;
+    width: 30%;
+    transition: 2s ease 1s;
+}
+body{
+    background-color: #dcbb14;
+}

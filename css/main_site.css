@@ -54,13 +54,13 @@ p{
     display: inline-block;
     margin-left: 20px;
     position: relative;
-    font-size: 16px;
 }
 footer{
      background-color: rgba(154, 149, 94, 0.5);
+    text-align: center;
 }
 
-#three{
+#tree{
     display: inline;
     margin-right: 50px;
     text-align: center;
@@ -85,10 +85,12 @@ div
 .link:hover{
     color: aliceblue;
     font-size: 30px;
+
 }
 #foot{
     text-align: center;
     font-size: 50px;
+    transition: 1s;
 }
 #foot:hover{
     text-shadow: 3px 3px 5px gold;

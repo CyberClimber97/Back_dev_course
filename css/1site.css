@@ -37,6 +37,7 @@ img:hover{
 }
 p{
     margin: 10px;
+    color: #142fdc;
 }
 
 
@@ -71,4 +72,23 @@ div
     margin-right: 50px;
     text-align: center;
     background-color: rgba(154, 149, 94, 0.5);
+}
+
+.link{
+    margin: 5px;
+    color: #dcbb14;
+    transition: 1s;
+
+}
+
+.link:hover{
+    color: aliceblue;
+    font-size: 40px;
+}
+#foot{
+    text-align: center;
+    font-size: 50px;
+}
+#foot:hover{
+    text-shadow: 3px 3px 5px gold;
 }
